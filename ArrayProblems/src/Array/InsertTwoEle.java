@@ -13,7 +13,7 @@ public class InsertTwoEle {
 			for(int i=0;i<b.length;i++) {
 				if(i==index1) {
 					b[i]=ele1;
-				
+				System.out.println();
 				}
 				else if(i==index2){
 	               b[i]=ele2;
