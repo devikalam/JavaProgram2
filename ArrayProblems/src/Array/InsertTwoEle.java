@@ -14,6 +14,7 @@ public class InsertTwoEle {
 				if(i==index1) {
 					b[i]=ele1;
 				System.out.println();
+				System.out.println();
 				
 				}
 				else if(i==index2){
